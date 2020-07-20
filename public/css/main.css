@@ -278,5 +278,11 @@ color: #9e0634;
 	.chat-sidebar {
 		display: none;
 	}
+
+
+	.chat-messages {
+		width: 350px;
+	}
+	
 }
 
