@@ -270,6 +270,11 @@ color: #9e0634;
 		display: block;
 	}
 
+	.chat-header h1 {
+		font-size: 14px;
+		margin: 0 0 0 0;
+	}
+
 	.chat-sidebar {
 		display: none;
 	}
