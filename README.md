@@ -26,10 +26,4 @@ Real time chat application with rooms functionality, creates a local server and 
 ### Deployment 
 [Heroku](https://platformlink.herokuapp.com/) 
 
-### TODO
-- [ ] add backend functionality
-
-### Want to collaborate?
-###### You can reach out to me at lebogangodeveloper@gmail.com
-
 
