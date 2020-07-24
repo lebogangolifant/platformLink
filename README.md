@@ -1,25 +1,29 @@
-Real time chat app with rooms functionality, built with Node, Express and Socket.io
-
 ## platformLink
 
+Real time chat application with rooms functionality, creates a local server and people connected to the same network can chat privately.
+
+
 ### Build Setup
+##### open your terminal or command prompt
 ```bash
 # Clone the repository
 ```
 
-### Install
+### Install dependecies
 ```bash
-# npm install
+# npm install express moment socket io
 ```
 
 ### Run development server
 ```bash
-# npm run dev
-# open http://localhost:3000
+# npm run dev 
+```
+### UI
+```bash
+# open http://localhost:3000 in your browser
 ```
 
-### Deployment
-
-* [Heroku](https://platformlink.herokuapp.com/) 
+### Deployment 
+[Heroku](https://platformlink.herokuapp.com/) 
 
 
